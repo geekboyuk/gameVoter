@@ -1,4 +1,4 @@
-# Voter.js - a discussion
+# gameVoter.js - a discussion
 
 This is purely intended as a discussion point about allocating people to games at game conferences and for gaming blocks.
 

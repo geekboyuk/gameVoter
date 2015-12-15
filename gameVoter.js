@@ -193,7 +193,8 @@ const unallocatedVoters = results.unallocatedVotes.map((unallocatedVote) => {
 // Remove him from any allocation
 const allocatedWithoutDave = removeFromAllocated(results.allocatedGames, [4]);
 // Create Dave's new game
-const newGames = [...games, {id: 5, name: 'f', capacity: 2
+const newGames = [...games, {id: 5, name: 'f', capacity: 2}];
+
 console.log('Adding a new game and some people are going to change their votes.');
 console.log('Games =>', newGames);
 

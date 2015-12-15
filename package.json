@@ -1,15 +1,15 @@
 {
-  "name": "voter",
-  "version": "0.0.1",
-  "description": "Voter",
-  "main": "voter.js",
+  "name": "gameVoter",
+  "version": "0.0.2",
+  "description": "gameVoter.js",
+  "main": "gameVoter.js",
   "scripts": {
-    "start": "node --harmony --harmony_destructuring voter.js",
+    "start": "node --harmony --harmony_destructuring gameVoter.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^3.10.1"
+    "lodash": "~3.10.1"
   }
 }
