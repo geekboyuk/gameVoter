@@ -1,6 +1,6 @@
 # Voter.js - a discussion
 
-This is purely intended as a discussion point about allocating people to games at game conferences.
+This is purely intended as a discussion point about allocating people to games at game conferences and for gaming blocks.
 
 ## Notes
 
@@ -12,7 +12,8 @@ This is purely intended as a discussion point about allocating people to games a
 
 ## Getting Started
 
-1. Clone the repo: `git clone`
+0. Ensure you have node & npm installed.
+1. Clone the repo: `git clone https://github.com/geekboyuk/gameVoter.git`
 2. Install dependencies: `npm install`
 3. Run: `npm start`
 4. See Note 1!
